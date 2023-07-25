@@ -1,0 +1,15 @@
+{
+    "deno.enable": true,
+    "deno.unstable": true,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        ".direnv": true,
+        ".devenv": true,
+        ".devenv.flake.nix": true
+    }
+}
